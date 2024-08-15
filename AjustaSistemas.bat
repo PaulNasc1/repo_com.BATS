@@ -32,4 +32,4 @@ DEL _QS*.* /S
 DEL TMP*.* /S
 CD\
 DEL C:\PDOXUSRS.NET 
-
+PAUSE
