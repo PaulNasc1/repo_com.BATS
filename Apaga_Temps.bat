@@ -23,6 +23,4 @@ DEL C:\PDOXUSRS.NET
 CD\
 DEL C:\PDOXUSRS.NET /Q
 
-PAUSE
-
 echo Limpeza concluída.
