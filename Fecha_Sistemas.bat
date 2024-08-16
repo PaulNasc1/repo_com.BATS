@@ -20,3 +20,5 @@ taskkill /f /im Boletos.exe
 cls
 taskkill /f /im LiveUpdate.exe
 cls
+
+PAUSE
